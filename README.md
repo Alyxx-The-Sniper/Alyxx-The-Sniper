@@ -1,16 +1,22 @@
-### Hi there 👋
+ABOUT ME:
 
-<!--
-**Alyxx-The-Sniper/Alyxx-The-Sniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍🎓 Bachelor of Science in Information Technology.
 
-Here are some ideas to get you started:
+👀👀 I'm passionate learning Data Science, Math, and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏳💞️ I'm currently studying Data Science and Machine Learning
+
+
+🌱 Industry Experience:
+- Manufacturing
+- Retail
+- Product Distribution
+- Mechanical Engineering
+
+
+💻 Work Experience:
+- HVAC Operation (Family Business)
+- Planner/delivery and Inventory
+ 
+ ![mech](https://user-images.githubusercontent.com/75878508/195753563-5f8aee6e-f6aa-4aa0-97e1-737df4986046.jpg)
+
