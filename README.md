@@ -23,6 +23,3 @@ ABOUT ME:
 - Planner/delivery and Inventory
 
 I have'nt organize my repo yet but feel free to browse my work.
-
-![mech](https://user-images.githubusercontent.com/75878508/195753563-5f8aee6e-f6aa-4aa0-97e1-737df4986046.jpg)
-
