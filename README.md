@@ -23,3 +23,8 @@ ABOUT ME:
 - Planner/delivery and Inventory
 
 I have'nt organize my repo yet but feel free to browse my work.
+Inside my 'Data Science' repo are list of all my activities such as:
+- SQL
+- Power Bi
+- Data Science fundamental
+- Machine Learning 
