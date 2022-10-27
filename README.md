@@ -4,7 +4,7 @@ ABOUT ME:
 
 👀👀 I'm passionate learning Data Science, Math, and Machine Learning
 
-⏳💞️ I'm currently studying Data Science and Machine Learning
+⏳💞️ I'm currently studying Data Science, Machine Learning, and Machine Learning Engineer
 <br>
 <br>
 👻😋 Personal Blog:
